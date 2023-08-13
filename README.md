@@ -21,5 +21,5 @@ gradlew build
 
 # Credits
 
-<a href="[1]: https://github.com/Cool-Cracking-Team/
+<a href="https://github.com/Cool-Cracking-Team/
 " target="_blank">Cool-Cracking-Team 🕵️</a>
